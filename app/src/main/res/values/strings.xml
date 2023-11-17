@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+    <string name="name">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="konsen">Konsentrasi</string>
+    <string name="jdl">Judul</string>
+    <string name="dsn">Dosen</string>
+    <string name="bckbtn">Back</string>
+    <string name="nxtbtn">Next</string>
+
+</resources>
